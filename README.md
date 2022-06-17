@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is 8*8 grid box on click of each box it's color changes to red
 
 ## Available Scripts
 
